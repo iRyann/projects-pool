@@ -15,3 +15,6 @@
 - [ ] AI Response metric
 - [ ] ASM Library to infer on neural networks efficiently
 - [ ] Unified Documentation Platform
+- [ ] npm for C
+- [ ] gestionnaire de script / d'alias / d'rc
+- [ ] a segmented python package malware
